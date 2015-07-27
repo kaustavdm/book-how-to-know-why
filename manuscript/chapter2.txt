@@ -10,6 +10,26 @@ All those childhood teachings get back at you. You feel the vastness of the worl
 
 ***
 
-It is at this point that you start thinking that you should know more about the world; about its past, about its present and about what may come ahead. There is a little problem. You want to know _what_ is out there. _What_ is it that you are not aware of yet. That sense of unknown tears at you.
+It is at this point that you start thinking you should know more about the world; about its past, about its present and about what may come ahead. There is a little problem. You want to know _what_ is out there. _What_ is it that you are not aware of yet. That sense of unknown tears at you.
 
 You see, at this point all you care about is facts. While it is great to know them, (I do know quite a few facts myself, like wizards in Middle Earth used to measure distance by bird-power) facts are not raw knowledge. They are _simplified_, processed, compressed, bit-sized and served-on-the-plate form of knowledge.
+
+Facts are helpful. But don't rely on them alone. A better way out is to know _where_ you can find answers to factual questions. Keep a list of those locations in your head and you are good to go. This won't help you win at quiz competitions or in trivia games, but it will free up a good portion of your memory that you can use to store more valuable information.
+
+If you know something about computers, then treat your memory like the way you would treat your computer's hard disks. Instead of caching large files locally, you would want to know where to find them on the internet. In that case you would need a good enough web browser and a decent internet connection to fetch those information whenever you need them. You reduce the required amount of storage space to some bookmarks in your browser. If you want, you can do the same with your own memory. Try to remember formulas, links and base properties; then derive whatever you need to know.
+
+***
+
+Take a simple example.
+
+As a kid, my teachers stressed that I should memorize multiplication tables till 20. I did not like memorizing so many numbers. Instead, I ended up memorizing only till the 5th place of 12. I figured out that I can derive the rest. So, I did this:
+
+- 5th multiple of any number can be derived by dividing the number by 2 and moving the decimal point one place to the right. e.g. To find out `17x5` I would do `17/2 = 8.5` and then move the decimal point one step to the right to get `85`.
+
+- Any other multiple can be calculated by adding or subtracting their positions from the 5th place or the 10th place. e.g. To find out `17x6`, I'd first calculate `17x5` and then add `17` to it.
+
+Doing this ensured that I always ended up with the correct answer without memorizing as much as my peers did. I took slightly longer time to answer when asked, but it was a good enough trade-off.
+
+***
+
+How you use your brain is up to you. You can decide to fill it with information which cannot be derived into useful things, or you can decide to store very less and calculate the rest.
